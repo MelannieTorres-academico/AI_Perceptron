@@ -26,7 +26,7 @@ The second number indicates the number of records used to train
 The third number indicates the number of tests to run
 The following lines should be the training records and the tests to run
 
-The breast cander dataset was taken from:
+The breast cancer dataset was taken from:
 
 Dua, D. and Karra Taniskidou, E. (2017). UCI Machine Learning Repository
 [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of
